@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to My Blog",
+      "content": "This is the first post content.",
+      "author": "Amos"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "Here's another blog post.",
+      "author": "Jane"
+    }
+  ]
+}
